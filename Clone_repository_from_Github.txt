@@ -1,0 +1,6 @@
+ How to Clone my repository from Github to my Computer
+
+1. After creating the new repository, copy the link under Quick Setup
+2. Open Git, locate the folder I would like the repository to be created. 
+3. type "git clone git@github.com:your_username/my_repo.git"
+4. A new folder will be created. 
