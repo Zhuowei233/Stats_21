@@ -5,3 +5,8 @@ How to Push Changes from Local Computer to Github
 3. type "git add filename" or "git add ." to add all changes
 4. type "git commit -m "description""
 5. type "git push"
+
+ls: browse the folders
+cd "folder name" (use tap to shortcut)
+
+
